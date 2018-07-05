@@ -8,3 +8,12 @@ html, body{
   height: 100%;
   background: #111111;
 }
+.particles-content{
+  margin:0px;
+  z-index:2;
+  position:
+  absolute;
+  width:auto;
+  height:auto;
+  color:antiquewhite;
+}
